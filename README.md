@@ -1,6 +1,10 @@
 ### Hi there 👋
+### My Name is Telmo J. Moura, I am from to V.N. Famalicao, Portugal
 
-### Teste
+## I'm a Web Development student. I am a dedicated, patient and resilient person. 
+## I'm looking for professional experience in the area.
+## Knowledge: C#,  JavaScript, TypeScript, ANGULAR, Postgresql,, HTML, CSS.
+## I'm currently learnning ReactJS.
 
 <!--
 **eutelmo/eutelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
