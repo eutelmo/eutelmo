@@ -1,5 +1,4 @@
-### Hi there 👋
-### My Name is Telmo J. Moura, I am from to V.N. Famalicao, Portugal
+### Hi there,I'm Telmo J. Moura 👋
 
 #### I'm a Web Development student. I am a dedicated, patient and resilient person. 
 #### I'm looking for professional experience in the area.
