@@ -1,5 +1,5 @@
 <div align="center">
-  <p> OLÁ/Hello/こんにちは</p>
+  <p> • OLÁ  • HELLO •</p>
   <h1> Sou o Telmo J. Moura </h1>
 </div>
 <div align="center">
