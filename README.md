@@ -1,6 +1,6 @@
 <div align="center">
   <p> • OLÁ  • HELLO •</p>
-  <h1> Sou o Telmo J. Moura </h1>
+  <h1> Telmo J. Moura </h1>
 </div>
 <div align="center">
   <p>I'm a Web Development student. I am a dedicated, patient and resilient person. </p>
