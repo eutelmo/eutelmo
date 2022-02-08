@@ -4,7 +4,6 @@
 </div>
 <div align="center">
   <p>I'm a Web Development student. I am a dedicated, patient and resilient person. </p>
-  <p><b>I'm looking for professional experience in the area. </b></p>
 </div>
 
 ##
