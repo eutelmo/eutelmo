@@ -3,7 +3,8 @@
   <h1> Telmo J. Moura </h1>
 </div>
 <div align="center">
-  <p>I'm a Web Development student. I am a dedicated, patient and resilient person. </p>
+  <p>I'm a Web Development student. </p>
+  <p>  I am a dedicated, patient and resilient person. </p>
 </div>
 
 ##
