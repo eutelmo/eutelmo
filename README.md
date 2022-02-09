@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <p>I'm a Web Development student. </p>
-  <p>  I am a dedicated, patient and resilient person. </p>
+  <p>  I am a dedicated, patient person. </p>
 </div>
 
 ##
