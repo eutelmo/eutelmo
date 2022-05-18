@@ -3,7 +3,7 @@
   <h1> Telmo J. Moura </h1>
 </div>
 <div align="center">
-  <p>I'm currently an intern at @ Kill Software as a Front-End Dev </br> and also starting to take his first steps as a technical project manager 😍 </p>
+  <p>I'm currently an intern at @ Kill Software as a Front-End Dev </br> and also starting to take his first steps as a Technical Project Manager 😍 </p>
   <h3>My goal is to be better than the me of yesterday! 🏆</h3>
 </div>
 
