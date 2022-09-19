@@ -3,8 +3,13 @@
   <h1> Telmo J. Moura </h1>
 </div>
 <div align="center">
-  <p>I'm currently an intern at @ Kill Software as a Front-End Dev </br> and also starting to take his first steps as a Technical Project Manager 😍 </p>
-  <h3>My goal is to be better than the me of yesterday! 🏆</h3>
+  <p>Lover of remote work, dedicated, patient and honest.</br></br>
+Receptive of all kinds of good advice in order to keep my evolution constant!!</br>
+
+I always look for harmony and a good working environment with my colleagues, </br>animation is my greatest value along with understanding and flexibility.
+
+ </p>
+  <h3>Let's overcome some challenges together??🏆</h3>
 </div>
 
 
