@@ -9,7 +9,7 @@ Receptive of all kinds of good advice in order to keep my evolution constant!!</
 I always look for harmony and a good working environment with my colleagues, </br>animation is my greatest value along with understanding and flexibility.
 
  </p>
-  <h3>Let's overcome some challenges together??🏆</h3>
+  <h3>Let's work together??🏆</h3>
 </div>
 
 
