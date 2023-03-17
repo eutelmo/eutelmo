@@ -3,11 +3,7 @@
   <h1> Telmo J. Moura </h1>
 </div>
 <div align="center">
-  <p>1.5 years of experience as a full-time Front-Env Developer.
 
-I solve everyday problems with ReactJs, NextJs with Typescript.
-
-I love a new challenge that makes me grow and I'm always looking for something new
 
  </p>
   <h3>Let's work together??🏆</h3>
