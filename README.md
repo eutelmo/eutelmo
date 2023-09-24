@@ -11,14 +11,6 @@
 
 <p>Welcome to my LinkedIn profile! I'm a technology enthusiast and software developer with a strong background in TypeScript, JavaScript, and frameworks like ReactJS, VueJS, and React Native. With a track record of challenging projects and a solutions-oriented approach, I'm committed to driving innovation and progress in the technology industry.</p>
 
-  <h3> 🚀 Key Skills:</h3>
- <ul>
-  <li>TypeScript | JavaScript</li>
-  <li>ReactJS | VueJS | React Native</li>
-  <li>Web and Mobile App Development</li>
-  <li>Collaboration in Multidisciplinary Teams</li>
-  <li>Creative Problem Solving</li>
-</ul> 
 
 <h3>🌏 In addition to my passion for technology, I have a long-standing dream of living in Australia. I'm always on the lookout for opportunities that bring me closer to this goal while continuing to enhance my skills and knowledge in the field of software development.</h3>
 
@@ -31,7 +23,10 @@
 
 
 ##
- 
+<div align="center">
+  
+   <h3> 🚀 Key Skills:</h3>
+</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="eutelmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eutelmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
