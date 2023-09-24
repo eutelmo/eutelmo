@@ -6,7 +6,27 @@
 
 
  </p>
-  <h3>Let's work together??🏆</h3>
+
+   <h3> 👋 Greetings,</h3>
+
+<p>Welcome to my LinkedIn profile! I'm a technology enthusiast and software developer with a strong background in TypeScript, JavaScript, and frameworks like ReactJS, VueJS, and React Native. With a track record of challenging projects and a solutions-oriented approach, I'm committed to driving innovation and progress in the technology industry.</p>
+
+  <h3> 🚀 Key Skills:</h3>
+ <ul>
+  <li>TypeScript | JavaScript</li>
+  <li>ReactJS | VueJS | React Native</li>
+  <li>Web and Mobile App Development</li>
+  <li>Collaboration in Multidisciplinary Teams</li>
+  <li>Creative Problem Solving</li>
+</ul> 
+
+<h3>🌏 In addition to my passion for technology, I have a long-standing dream of living in Australia. I'm always on the lookout for opportunities that bring me closer to this goal while continuing to enhance my skills and knowledge in the field of software development.</h3>
+
+<h3>💼 I'm open to new professional connections, discussions about exciting projects, and collaboration opportunities. Whether you share my enthusiasm for technology or have insights into opportunities in Australia, I'd love to have a conversation!</h3>
+
+<h3>📬 Feel free to send me a message for networking, inquiries, or collaboration opportunities. Let's create meaningful connections and drive success together.</h3>
+
+<h3>🔗 Connect with me, and let's explore how we can contribute to the world of technology and make our dreams come true together!</h3>
 </div>
 
 
