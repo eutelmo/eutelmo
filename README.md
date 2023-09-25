@@ -18,7 +18,6 @@
 
 <p>📬 Feel free to send me a message for networking, inquiries, or collaboration opportunities. Let's create meaningful connections and drive success together.</p>
 
-<h5>🔗 Connect with me, and let's explore how we can contribute to the world of technology and make our dreams come true together!</h5>
 </div>
 
 
