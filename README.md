@@ -9,7 +9,7 @@
 
    <h3> 👋 Greetings,</h3>
 
-<p>Welcome to my LinkedIn profile! I'm a technology enthusiast and software developer with a strong background in TypeScript, JavaScript, and frameworks like ReactJS, VueJS, and React Native. With a track record of challenging projects and a solutions-oriented approach, I'm committed to driving innovation and progress in the technology industry.</p>
+<p>Welcome to my GitHub profile! I'm a technology enthusiast and software developer with a strong background in TypeScript, JavaScript, and frameworks like ReactJS, VueJS, and React Native. With a track record of challenging projects and a solutions-oriented approach, I'm committed to driving innovation and progress in the technology industry.</p>
 
 
 <p>🌏 In addition to my passion for technology, I have a long-standing dream of living in Australia. I'm always on the lookout for opportunities that bring me closer to this goal while continuing to enhance my skills and knowledge in the field of software development.</p>
